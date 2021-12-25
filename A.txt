@@ -1,1 +1,2 @@
 Hi ! we are in master branch. 
+  Hi ! we are in new branch,now! 
